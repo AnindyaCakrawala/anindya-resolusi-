@@ -1,10 +1,10 @@
 RENCANA KONTEN ANINDYA
 
 - Javascript
-  ES6
-  Framework Javascript
-  ^ Vue
-  ^ React
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
